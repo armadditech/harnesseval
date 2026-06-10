@@ -1,4 +1,4 @@
-# 🎓 MathTutor Harness Evaluation System
+# 🎓 Harness Evaluation System
 
 An AI teaching evaluation framework that compares **5 different tutoring strategies** to determine which approach is most effective for math education. Built with Claude API, FastAPI, and interactive visualizations.
 
