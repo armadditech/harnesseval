@@ -491,9 +491,8 @@ MIT License - feel free to use for research, education, or commercial projects.
 
 ## 👤 Author
 
-**Deepak Mukunthu**
-- GitHub: [@deepak-mukunthu](https://github.com/deepak-mukunthu)
-- Related Project: [MathTutor React App](https://github.com/deepak-mukunthu/MathTutor)
+**Rama Maddi**
+- GitHub: [@armadditech](https://github.com/armadditech)
 
 ## 🙏 Acknowledgments
 
